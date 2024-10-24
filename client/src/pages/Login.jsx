@@ -47,7 +47,7 @@ const Login = () => {
           explore the app
         </button>
         <p>
-          Not a member yet?
+          Not a member yet? Please
           <Link to="/register" className="member-btn">
             Register
           </Link>
